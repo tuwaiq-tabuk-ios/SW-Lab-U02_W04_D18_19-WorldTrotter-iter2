@@ -23,3 +23,9 @@ Second iteration of WorldTrotter App where we can switch between two view hierar
 
 ## Deadline 
 Thursday 28th October 9:15 am
+
+
+
+https://user-images.githubusercontent.com/91871416/139095031-8f2999a4-7494-4cde-85a1-28b7ed30831b.mp4
+
+
