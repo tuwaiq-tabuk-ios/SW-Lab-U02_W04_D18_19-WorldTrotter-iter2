@@ -88,8 +88,19 @@
                     <view key="view" contentMode="scaleToFill" id="vCi-Q9-CS2">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="wX3-59-aqG">
+                                <rect key="frame" x="0.0" y="44" width="390" height="717"/>
+                            </mapView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="hOc-Lu-zr4"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="wX3-59-aqG" firstAttribute="leading" secondItem="hOc-Lu-zr4" secondAttribute="leading" id="8or-1S-bQe"/>
+                            <constraint firstItem="hOc-Lu-zr4" firstAttribute="bottom" secondItem="wX3-59-aqG" secondAttribute="bottom" id="HWk-MT-r0R"/>
+                            <constraint firstItem="wX3-59-aqG" firstAttribute="top" secondItem="hOc-Lu-zr4" secondAttribute="top" id="Qdz-2P-gOi"/>
+                            <constraint firstItem="hOc-Lu-zr4" firstAttribute="trailing" secondItem="wX3-59-aqG" secondAttribute="trailing" id="yY8-HZ-HgW"/>
+                        </constraints>
                     </view>
                     <tabBarItem key="tabBarItem" title="map" image="MapIcon" selectedImage="MapIcon" id="5xP-p8-6qo"/>
                 </viewController>

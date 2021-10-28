@@ -16,7 +16,7 @@
 		2874F3C227292B6D00D16056 /* Questions  Banc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2874F3BF27292B6D00D16056 /* Questions  Banc.swift */; };
 		2874F3C327292B6D00D16056 /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2874F3C027292B6D00D16056 /* Questions.swift */; };
 		2874F3C427292B6D00D16056 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2874F3C127292B6D00D16056 /* QuizViewController.swift */; };
-		2874F3C82729416E00D16056 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2874F3C72729416E00D16056 /* MapViewController.swift */; };
+		28D8BE0C272AC9E6003A40F2 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D8BE0B272AC9E6003A40F2 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +30,8 @@
 		284B89ED272686D000E780F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2874F3BF27292B6D00D16056 /* Questions  Banc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Questions  Banc.swift"; sourceTree = "<group>"; };
 		2874F3C027292B6D00D16056 /* Questions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
-		2874F3C127292B6D00D16056 /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuizViewController.swift; path = "../../../SW-Lab-U01_W03_D12_13-TriviaSingleChoice/Trivialsinnclechoice/Trivialsinnclechoice/QuizViewController.swift"; sourceTree = "<group>"; };
-		2874F3C72729416E00D16056 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		2874F3C127292B6D00D16056 /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		28D8BE0B272AC9E6003A40F2 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,12 +66,12 @@
 			children = (
 				284B89DF272686CE00E780F6 /* AppDelegate.swift */,
 				284B89E1272686CE00E780F6 /* SceneDelegate.swift */,
-				2874F3C72729416E00D16056 /* MapViewController.swift */,
 				284B89E3272686CE00E780F6 /* ViewController.swift */,
 				2874F3BF27292B6D00D16056 /* Questions  Banc.swift */,
 				2874F3C027292B6D00D16056 /* Questions.swift */,
 				2874F3C127292B6D00D16056 /* QuizViewController.swift */,
 				284B89E5272686CE00E780F6 /* Main.storyboard */,
+				28D8BE0B272AC9E6003A40F2 /* MapViewController.swift */,
 				284B89E8272686D000E780F6 /* Assets.xcassets */,
 				284B89EA272686D000E780F6 /* LaunchScreen.storyboard */,
 				284B89ED272686D000E780F6 /* Info.plist */,
@@ -155,7 +155,7 @@
 				284B89E2272686CE00E780F6 /* SceneDelegate.swift in Sources */,
 				2874F3C327292B6D00D16056 /* Questions.swift in Sources */,
 				2874F3C227292B6D00D16056 /* Questions  Banc.swift in Sources */,
-				2874F3C82729416E00D16056 /* MapViewController.swift in Sources */,
+				28D8BE0C272AC9E6003A40F2 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
