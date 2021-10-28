@@ -23,3 +23,6 @@ Second iteration of WorldTrotter App where we can switch between two view hierar
 
 ## Deadline 
 Thursday 28th October 9:15 am
+![Simulator Screen Shot - iPhone 12 - 2021-10-27 at 21 14 30](https://user-images.githubusercontent.com/91871608/139235253-c0ca2b36-bba7-4e69-acdf-ccd885266555.png)
+![Simulator Screen Shot - iPhone 12 - 2021-10-27 at 21 14 22](https://user-images.githubusercontent.com/91871608/139235274-e66cf8b8-204b-4b7d-8fc4-a9da4c224046.png)
+![Simulator Screen Shot - iPhone 12 - 2021-10-28 at 13 09 34](https://user-images.githubusercontent.com/91871608/139235471-3f539e82-63fd-4004-bdf2-c90f33f3d83b.png)
