@@ -20,6 +20,10 @@ Second iteration of WorldTrotter App where we can switch between two view hierar
       - This tab should show the TrviaMultipleChoice interface that you created last week.
 3. Silver challenge
    - Whenever the `ConversionViewController` is viewed, update its background colour to be a randomly generated colour.
+   - 
+![Simulator Screen Shot - iPhone 12 - 2021-10-28 at 13 47 49](https://user-images.githubusercontent.com/91871856/139242281-68292503-b174-4475-80e0-1afd80d87bd4.png)
+
+
 
 ## Deadline 
 Thursday 28th October 9:15 am
