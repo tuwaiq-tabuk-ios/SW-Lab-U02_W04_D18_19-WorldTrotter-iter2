@@ -92,7 +92,7 @@
         <!--Question-->
         <scene sceneID="Sps-eF-3lw">
             <objects>
-                <viewController id="iTg-a1-PiL" customClass="questionViewController" customModule="WorldTrotteriter1" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="iTg-a1-PiL" customClass="QuizViewController" customModule="WorldTrotteriter1" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AJh-zb-DOK">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
